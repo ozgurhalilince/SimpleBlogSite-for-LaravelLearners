@@ -46,25 +46,25 @@ Project is developing with Laravel 5.3. It is a sample for beginners. Therefore,
 ### Screenshots
 
 Posts
-<img src="https://github.com/ozgurince/SimpleBlogSite-for-LaravelLearners/blob/master/public/screenshots/posts.png" height="412" width="850">&nbsp;<br>
+<img src="https://github.com/ozgurince/SimpleBlogSite-for-LaravelLearners/blob/master/public/screenshots/posts.PNG" height="412" width="850">&nbsp;<br>
 
 Add Post
-<img src="https://github.com/ozgurince/SimpleBlogSite-for-LaravelLearners/blob/master/public/screenshots/add_post.png" height="412" width="850">&nbsp;<br>
+<img src="https://github.com/ozgurince/SimpleBlogSite-for-LaravelLearners/blob/master/public/screenshots/add_post.PNG" height="412" width="850">&nbsp;<br>
 
 Categories
-<img src="https://github.com/ozgurince/SimpleBlogSite-for-LaravelLearners/blob/master/public/screenshots/categories.png" height="412" width="850">&nbsp;<br>
+<img src="https://github.com/ozgurince/SimpleBlogSite-for-LaravelLearners/blob/master/public/screenshots/categories.PNG" height="412" width="850">&nbsp;<br>
 
 Tags
-<img src="https://github.com/ozgurince/SimpleBlogSite-for-LaravelLearners/blob/master/public/screenshots/tags.png" height="412" width="850">&nbsp;<br>
+<img src="https://github.com/ozgurince/SimpleBlogSite-for-LaravelLearners/blob/master/public/screenshots/tags.PNG" height="412" width="850">&nbsp;<br>
 
 Comments in Post
-<img src="https://github.com/ozgurince/SimpleBlogSite-for-LaravelLearners/blob/master/public/screenshots/comments_in_post.png" height="412" width="850">&nbsp;<br>
+<img src="https://github.com/ozgurince/SimpleBlogSite-for-LaravelLearners/blob/master/public/screenshots/comments_in_post.PNG" height="412" width="850">&nbsp;<br>
 
 Comments
-<img src="https://github.com/ozgurince/SimpleBlogSite-for-LaravelLearners/blob/master/public/screenshots/comments.png" height="412" width="850">&nbsp;<br>
+<img src="https://github.com/ozgurince/SimpleBlogSite-for-LaravelLearners/blob/master/public/screenshots/comments.PNG" height="412" width="850">&nbsp;<br>
 
 About Me
-<img src="https://github.com/ozgurince/SimpleBlogSite-for-LaravelLearners/blob/master/public/screenshots/about_me.png" height="412" width="850">&nbsp;<br>
+<img src="https://github.com/ozgurince/SimpleBlogSite-for-LaravelLearners/blob/master/public/screenshots/about_me.PNG" height="412" width="850">&nbsp;<br>
 
 
 
