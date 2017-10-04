@@ -15,14 +15,16 @@ Tasarımda [AdminLTE](https://almsaeedstudio.com/themes/AdminLTE/index2.html) ku
 ##### Yönetici Yetkileri
 * Giriş/Çıkış yapabilir.
 * Blog yazısı ekleyebilir, düzenleyebilir veya silebilir.
-* Yazılardaki yorumları gözükmesi için onaylayabilir, silebilir veya gizleyebilir. Yazıya yorum ekleyebilir.
+* Gönderilere gelen yorumları onaylayabilir, silebilir veya gizleyebilir.
+* Gönderilere yorum ekleyebilir.
 * Kategori ekleyebilir, düzenleyebilir veya silebilir.
 * Etiket ekleyebilir, düzenleyebilir veya silebilir.
-* Etiketlerdeki veya kategorilerdeki yazıları görüntüleyebilir.
-* Hesap ayarlarını değiştirebilir.
+* Etiketlerdeki veya kategorilerdeki gönderileri görüntüleyebilir.
+* Kullanıcı hesap ayarlarını değiştirebilir.
 * Hakkımda yazısını değiştirebilir.
 
 <hr>
+
 ### English
 
 It is a simple blog site developed on request of [DenizliHS](http://www.denizlihs.org/). Only admin panel has been developed. Laravel enthusiasts are invited to contribute.
@@ -35,7 +37,8 @@ Project is developing with Laravel 5.3. It is a sample for beginners. Therefore,
 
 * Can login and logout.
 * Can add, edit, or delete blog posts.
-* Can approve, delete or hide comments in the post. Can add comments to post.
+* Can approve, delete or hide comments in the post. 
+* Can add comments to post.
 * Can add, edit or delete categories.
 * Can add, edit or delete tags.
 * Can display posts in tags or categories.
